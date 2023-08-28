@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/meProject/static/css/main.0c231b4b.css",
-    "main.js": "/meProject/static/js/main.9d972556.js",
+    "main.css": "/meProject/static/css/main.5e506752.css",
+    "main.js": "/meProject/static/js/main.a6cddcd6.js",
     "static/js/787.d3befce1.chunk.js": "/meProject/static/js/787.d3befce1.chunk.js",
     "static/media/me.jpeg": "/meProject/static/media/me.9f45e0944241c30136c9.jpeg",
     "static/media/me3.jpeg": "/meProject/static/media/me3.15307573fe35228565f6.jpeg",
@@ -10,12 +10,12 @@
     "static/media/Ericsson.jpeg": "/meProject/static/media/Ericsson.915a5df15203f9bde3d4.jpeg",
     "static/media/logo.svg": "/meProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/meProject/index.html",
-    "main.0c231b4b.css.map": "/meProject/static/css/main.0c231b4b.css.map",
-    "main.9d972556.js.map": "/meProject/static/js/main.9d972556.js.map",
+    "main.5e506752.css.map": "/meProject/static/css/main.5e506752.css.map",
+    "main.a6cddcd6.js.map": "/meProject/static/js/main.a6cddcd6.js.map",
     "787.d3befce1.chunk.js.map": "/meProject/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c231b4b.css",
-    "static/js/main.9d972556.js"
+    "static/css/main.5e506752.css",
+    "static/js/main.a6cddcd6.js"
   ]
 }
